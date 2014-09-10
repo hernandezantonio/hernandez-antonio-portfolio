@@ -4,15 +4,28 @@ body
     background-color: green;
 }
 nav a {
-    color: white;
+   color: white 
 }
+   
+    
 
-#current-link{ text-decoration: none;} 
+#current-link{ text-decoration: greenyellow;} 
 .uppercase {
   text-transform: uppercase; 
-  font-size: 35px;
+  font-size: 37px;
+  color: blueviolet;
 }
 img {
-    width: 600px;
+    width: 500px; 
     height: auto;
+} 
+h1 {
+    border-style: ridge;  
+    border-width: 5px;
+    border-color: blueviolet; 
+     
+} 
+article {
+    color: white;
+  font-size: 17px; 
 }
